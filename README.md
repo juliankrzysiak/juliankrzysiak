@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CastillejaCode
-- 👀 I’m interested in Hiking, Native Plants, Reading, Exercise, Dancing, Learning Useless Information to Annoy my Friends with
+- 👀 I’m interested in Hiking, Reading, Exercise, Dancing, Native Plants, Learning 
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on simple really, just starting out :)
-- 📫 How to reach me jkrzysiak13@gmail.com
+- 💞️ I’m looking to collaborate on simple stuff really, just starting out :)
+- 📫 How to reach me, at jkrzysiak13@gmail.com
 
 <!---
 CastillejaCode/CastillejaCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
