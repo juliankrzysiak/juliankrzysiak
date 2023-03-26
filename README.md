@@ -2,7 +2,7 @@ Howdy, I’m @CastillejaCode, otherwise known as Julian. Decided to move away fr
 
 My profile picture is an Indian Paintrbrush I found while hiking, a small plant from genus Castilleja  -  wait, isn't that your username? Yes, it is, I just really like this native plant!
 
-Recently I have been focusing on Typescript, using Tailwind CSS instead of SCSS, Vite instead of Webpack, and Vitest instead of Jest. Soon I'll be jumping on a js framework, most likely React.
+Recently I have been focusing on Typescript, using Tailwind CSS instead of SCSS, Vite instead of Webpack, and Vitest instead of Jest. I also just hopped on the React train, it's pretty neat!
 
 Talk to me about anything at jkrzysiak13@gmail.com (coding and plants would be cool)
 
