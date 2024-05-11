@@ -1,7 +1,15 @@
-Howdy, I’m @CastillejaCode, otherwise known as Julian. Decided to move away from pursuing medicine and ended up here as my new career path, fullstack web development that is. In my free time when I'm not on that grind typing away, I like to hike, bike, read, dance, go to the gym and learn about California native plants, California history, and anything else related to California really. 
+<h1 align="center">Howdy, I'm Julian</h1>
+<h3 align="center">Full-stack developer from the Antelope Valley.</h3>
 
-My profile picture is me at Bumpass Hell at Lassen Volcanic National Park, cool place. 
-<!---
-CastillejaCode/CastillejaCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently working on [ROAM, a roadtrip planning app](https://github.com/juliankrzysiak/roam).
+I've been having fun working with server components on that one. 
+
+Ask me about JS, React, or any cool hiking spots in SoCal.
+
+I specialize in using TypeScript, React, PostgreSQL, Tailwind, and Node to make simple and accessible websites. Recently picked up Svelte which is a great framework for developing. 
+
+Hit me up via **jkrzysiak13@gmail.com** or <a href="https://linkedin.com/in/juliankrzysiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliankrzysiak" height="30" width="40" /></a>
+
+In my free time I go hiking, birding, and love to learn about geology, local and natural history, and ecology.
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliankrzysiak&show_icons=true&locale=en&layout=compact" alt="juliankrzysiak" /></p>
