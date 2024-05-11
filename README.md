@@ -1,5 +1,5 @@
 <h1 align="center">Howdy, I'm Julian</h1>
-<h3 align="center">Full-stack developer from the Antelope Valley.</h3>
+<h3 align="center">Full-stack developer from the Antelope Valley</h3>
 
 I'm currently working on [ROAM, a roadtrip planning app](https://github.com/juliankrzysiak/roam).
 I've been having fun working with server components on that one. 
