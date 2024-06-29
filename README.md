@@ -6,10 +6,10 @@ I've been having fun working with server components on that one.
 
 Ask me about JS, React, or any cool hiking spots in SoCal.
 
-I specialize in using TypeScript, React, PostgreSQL, Tailwind, and Node to make simple and accessible websites. Recently picked up Svelte which is a great framework for developing. 
+I specialize in using TypeScript, React, PostgreSQL, Tailwind, and Node to make simple and accessible websites. Recently picked up Svelte which is a great framework for web development. 
 
 Hit me up via **jkrzysiak13@gmail.com** or <a href="https://linkedin.com/in/juliankrzysiak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juliankrzysiak" height="30" width="40" /></a>
 
-In my free time I go hiking, birding, and love to learn about geology, local and natural history, and ecology.
+In my free time I like to exercise, hike, and look at birds. I love to learn anything and everything about the outdoors, from geology to botany, along with local history and culture.  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=juliankrzysiak&show_icons=true&locale=en&layout=compact" alt="juliankrzysiak" /></p>
